@@ -1,4 +1,4 @@
-<h1>Easy Shopping Via Mobile</h1>
+
 <h1 align="center">
   "Easy Shopping Via Mobile"
 </h1>
